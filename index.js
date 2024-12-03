@@ -1,0 +1,5 @@
+cams.push(new Camera(0, 0, -50, 0, 0))
+objs.push(new Obj(0, 0, 20, 10, "#ff0000")) 
+objs.push(new Obj(10, 10, 30, 5, "#0000ff")) 
+objs.push(new Obj(10, -10, -30, 5, "#00ffff")) 
+objs.push(new Obj(-10, -10, 30, 5, "#ffffff")) 
